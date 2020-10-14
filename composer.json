@@ -1,25 +1,25 @@
 {
-    "name": "laravel-enso/logs",
+    "name": "genealogiawebsite/logs",
     "description": "Log management dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "logs",
         "log-manager",
         "laravel-logs"
     ],
-    "homepage": "https://github.com/laravel-enso/logs",
+    "homepage": "https://github.com/genealogiawebsite/logs",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^5.0|^6.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/migrator": "^2.0"
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/migrator": "^2.0"
     },
     "autoload": {
         "psr-4": {
